@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chantelle-Mphusu
-- 👀 I’m interested in developing problem solving solutions, egineering systems that are life changing and making an impact in the data science field
-- 🌱 I’m currently learning the extensive use of frameworks across javascript, python and php to create applications
+- 👀 I’m interested in developing problem solving solutions, egineering systems that are life changing and making an impact in the machine learning and artificial intelligence field through software engineering
+- 🌱 I’m currently learning the extensive use of machine learning and frameworks across javascript, python, react and php to create applications
 - 📫 How to reach me: lunxrue@gmail.com
 
 <!---
